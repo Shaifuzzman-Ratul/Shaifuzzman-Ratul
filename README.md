@@ -3,7 +3,11 @@
 <!-- About me -->
 <h1 align="center">Hi 👋, I'm Md Shaifuzzman Ratul</h1>
 <h3 align="center">• MERN Stack Developer •</h3> 
-<h3 align="center">Code. Debug. Learn. Repeat.</h3>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+<h4 align="center">Code. Debug. Learn. Repeat.</h4>
 <h2> 👋 ABOUT ME</h2>
 I’m a passionate 'MERN Stack learner' and aspiring Full-Stack Developer.  
 I love building web applications, solving problems with code, and learning new technologies every day.
@@ -43,13 +47,19 @@ I enjoy collaborating on projects, contributing to open-source, and sharing know
 <br/><br/>
 <!-- github statistics -->
 <h2>GITHUB STATISTICS</h2> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaifuzzman-ratul&show_icons=true&locale=en&layout=compact" alt="shaifuzzman-ratul" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaifuzzman-ratul&show_icons=true&locale=en" alt="shaifuzzman-ratul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaifuzzman-Ratul&show_icons=true&locale=en&layout=compact" alt="Shaifuzzman-Ratul" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shaifuzzman-Ratul&show_icons=true&locale=en" alt="Shaifuzzman-Ratul" /></p>
 <br/><br/>
 <!-- repository stact& streak -->
 <h2>REPOSITORY STATS & STREAK<h2/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaifuzzman-ratul&" alt="shaifuzzman-ratul" /></p>
+<p align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaifuzzman-Ratul&" alt="Shaifuzzman-Ratul" />
+
+</p>
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Shaifuzzman-Ratul/output/snake.svg" alt="Snake animation" />
 
