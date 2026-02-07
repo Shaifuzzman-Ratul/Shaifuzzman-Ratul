@@ -2,7 +2,8 @@
 ![img alt](https://github.com/Shaifuzzman-Ratul/Shaifuzzman-Ratul/blob/f2602aa6e783d4cd188fa9200596c5888b640d72/gitgub-banner.png)
 <!-- About me -->
 <h1 align="center">Hi 👋, I'm Md Shaifuzzman Ratul</h1>
-<h3 align="center">Learning MERN Stack • Code. Debug. Learn. Repeat.</h3>
+<h3 align="center">• MERN Stack Developer •</h3> 
+<h3 align="center">Code. Debug. Learn. Repeat.</h3>
 <h2> 👋 ABOUT ME</h2>
 I’m a passionate 'MERN Stack learner' and aspiring Full-Stack Developer.  
 I love building web applications, solving problems with code, and learning new technologies every day.
