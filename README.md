@@ -59,7 +59,3 @@ I enjoy collaborating on projects, contributing to open-source, and sharing know
 </p>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shaifuzzman-Ratul/output/snake.svg" alt="Snake animation" />
-
